@@ -39,9 +39,9 @@ The idea of starting to host on Airbnb has come to many peoples mind but some pe
 
 There are two different Jupyter Notebooks in this repository. They are both explicitly named for people to understand what they do. 
 
-- *Airbnb - Data Processing and Imputation*: Preprocessing of the boston airbnb data for 2017 is computed. Anything ranging from data gathering and assessing to cleaning and imputing missing values. 
+- **Airbnb - Data Processing and Imputation**: Preprocessing of the boston airbnb data for 2017 is computed. Anything ranging from data gathering and assessing to cleaning and imputing missing values. 
 
-- *Airbnb - Data Analysis*: Analysis of the previous preprocessed data is done and many visualizations are computed to help answer the questions in the motivation. This notebook contains some light processing, modelling, visualising and detailed explanations and conclusions about the data,
+- **Airbnb - Data Analysis**: Analysis of the previous preprocessed data is done and many visualizations are computed to help answer the questions in the motivation. This notebook contains some light processing, modelling, visualising and detailed explanations and conclusions about the data,
 
 ## Results<a name="results"></a>
 
