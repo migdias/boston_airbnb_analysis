@@ -45,7 +45,7 @@ There are two different Jupyter Notebooks in this repository. They are both expl
 
 ## Results<a name="results"></a>
 
-The main conclusions and results can be found in the notebook *Airbnb - Data Analysis*. But if you wish for a cleaner and better written results you can check my blog post on Medium HEREEEEEEE.
+The main conclusions and results can be found in the notebook *Airbnb - Data Analysis*. But if you wish for a cleaner and better written results you can check my blog post on Medium [here](https://medium.com/@miguel.a.r.diass/start-hosting-in-boston-like-a-boss-d8c9849b163e).
 
 ## Licensing, Authors, and Acknowledgments<a name="licensing"></a>
 
