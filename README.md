@@ -31,7 +31,7 @@ For **Modelling**:
 The idea of starting to host on Airbnb has come to many peoples mind but some people lack the information they need to make a great transition into this airbnb hosting world and, by the time of their first reviews, it might be too late to make your listiing the best it can be. Therefore I used the 2017 Boston Airbnb Dataset in order to understand the key principles about being a host and how to get the most out of it. For that I asked the following questions:
 
 1. **Which neighbourhoods are best for hosting?**
-2. **How does the price fluctuate thoughout the year?**
+2. **How does the price fluctuate throughout the year?**
 3. **What is mostly correlated with being a Superhost?**
 4. **What features influence the price the most?**
 
